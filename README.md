@@ -39,4 +39,4 @@
 
 > Sample screen
 
-<img src="/images/retrofitOutput.png"/> 
+<img src="/images/retrofitOutput.png" width="400"/> 
