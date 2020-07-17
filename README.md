@@ -38,3 +38,5 @@
 <img src="/images/retrofitPackageYapısı.png"/> 
 
 > Sample screen
+
+<img src="/images/retrofitOutput.png"/> 
